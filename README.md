@@ -10,7 +10,7 @@ Windows and macOS binaries are available under [Releases](https://github.com/mar
 
 Or install from source:
 
-    go get -u github.com/martinlindhe/validyaml
+    go install github.com/martinlindhe/validyaml@latest
 
 
 ## Usage
